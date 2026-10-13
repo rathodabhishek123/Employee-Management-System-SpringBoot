@@ -1,4 +1,4 @@
-# SpringDataJPA_CurdRepository_Project
+#Employee-Management-System-SpringBoot
 
 A Spring Boot project demonstrating **CRUD (Create, Read, Update, Delete) operations** using **Spring Data JPA** and **CrudRepository** with a **MySQL database**.
 
